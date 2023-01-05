@@ -20,7 +20,7 @@ html {
 }
 
 :root {
-  --pomodoro: hsl(223, 25%, 40%);
+  --pomodoro: hsl(197, 65%, 47%);
   --shortBreak: hsl(48, 23%, 40%);
   --longBreak: hsl(105, 16%, 40%);
 }
